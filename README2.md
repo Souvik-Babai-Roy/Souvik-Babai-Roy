@@ -38,8 +38,8 @@
 ---
 
 ### 🔥 Featured Projects
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souvik-Babai-Roy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Babai-Roy&layout=compact&langs_count=8&theme=gotham"/>
+[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrimeCart&theme=gotham)](https://github.com/Souvik-Babai-Roy/PrimeCart)
+[![Phishing Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrivyTalk&theme=gotham)](https://github.com/Souvik-Babai-Roy/PrivyTalk)
 
 ---
 
