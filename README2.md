@@ -71,6 +71,5 @@
 
 ---
 
-<p align="right">
+
 [![Profile View](https://visitor-badge.laobi.icu/badge?page_id=Souvik-Babai-Roy.Souvik-Babai-Roy)](https://github.com/Souvik-Babai-Roy)
-</p>
