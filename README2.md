@@ -38,7 +38,7 @@
 ---
 
 ### 🔥 Featured Projects
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=E-Commerce-Platform&theme=dark)](https://github.com/Souvik-Babai-Roy/E-Commerce-Platform)
+[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrimeCart&theme=dark)](https://github.com/Souvik-Babai-Roy/PrimeCart)
 [![Phishing Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=Phishing-Website-Detection&theme=dark)](https://github.com/Souvik-Babai-Roy/Phishing-Website-Detection)
 
 ---
@@ -53,8 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Babai-Roy&theme=vision-friendly-dark" alt="GitHub Streak"/>
 </div>
 
-![Contribution Graph](https://raw.githubusercontent.com/Souvik-Babai-Roy/Souvik-Babai-Roy/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 🏆 Achievements
@@ -64,7 +62,7 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souvikroy1995)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/souvikroy1995/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/_Souvik_Roy_/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://souvikroy.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikroy733@gmail.com)
 
