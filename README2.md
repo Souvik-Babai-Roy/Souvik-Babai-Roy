@@ -6,40 +6,40 @@
 ---
 
 ### 🚀 About Me
-- 🎓 MCA Graduate with a passion for **Web Development & Cloud Computing**
-- 🌱 Currently learning **MERN Stack, Cloud Technologies, and DevOps**
-- 👯 Looking to collaborate on **Open Source and Web Development Projects**
-- 💬 Ask me about **Java, JavaScript, and Web Development**
-- 📫 Reach me at: [souvikroy733@gmail.com](mailto:souvikroy733@gmail.com)
-- ⚡ Fun fact: **I enjoy solving coding challenges & exploring new technologies!**
+- 🔭 Currently working on **MERN Stack & Cloud Technologies**
+- 🌱 Learning **Microservices Architecture & DevOps**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Java, Spring Boot, and System Design**
+- 📫 Reach me: [souvikroy733@gmail.com](mailto:souvikroy733@gmail.com)
+- ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes**
 
 ---
 
 ### 🛠 Tech Stack
 **Languages**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries**  
+**Frameworks**  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**DevOps**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
 ### 🔥 Featured Projects
-[![Phishing Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=Phishing-Detection&theme=gotham)](https://github.com/Souvik-Babai-Roy/Phishing-Detection)
-[![Fire & Smoke Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=Fire-Smoke-Detector&theme=gotham)](https://github.com/Souvik-Babai-Roy/Fire-Smoke-Detector)
+[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrimeCart&theme=gotham)](https://github.com/Souvik-Babai-Roy/PrimeCart)
+[![Phishing Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrivyTalk&theme=gotham)](https://github.com/Souvik-Babai-Roy/PrivyTalk)
 
 ---
 
