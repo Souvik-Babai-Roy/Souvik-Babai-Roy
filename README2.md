@@ -65,9 +65,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Souvik-Babai-Roy&theme=gotham&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-<p>Random dev joke for you, dear visitor! 
-<br>
-<img align="center" src="https://readme-jokes.vercel.app/api?theme=gotham" alt="README Jokes"></p>
+### 😊 Random Dev Joke
+
+<img align="center" src="https://readme-jokes.vercel.app/api?theme=gotham" alt="README Jokes">
 
 ---
 
