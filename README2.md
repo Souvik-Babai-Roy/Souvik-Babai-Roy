@@ -39,7 +39,7 @@
 
 ### 🔥 Featured Projects
 [![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrimeCart&theme=dark)](https://github.com/Souvik-Babai-Roy/PrimeCart)
-[![Phishing Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=Phishing-Website-Detection&theme=dark)](https://github.com/Souvik-Babai-Roy/Phishing-Website-Detection)
+[![Phishing Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrivyTalk&theme=gotham)](https://github.com/Souvik-Babai-Roy/PrivyTalk)
 
 ---
 
