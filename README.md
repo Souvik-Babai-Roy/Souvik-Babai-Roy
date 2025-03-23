@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Sayan Rajak Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-rajak-das&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-rajak-das" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sSouvik-Babai-Roy&label=Profile%20views&color=0e75b6&style=flat" alt="Souvik-Babai-Roy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan-rajak-das" alt="sayan-rajak-das" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-babai-roy" alt="Souvik-Babai-Roy" /></a> </p>
 
 - 🔭 I’m currently working on **Full stack**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **sayandas987123654@gmail.com**
+- 📫 How to reach me **ssouvikroy733@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
