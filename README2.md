@@ -65,7 +65,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Souvik-Babai-Roy&theme=gotham&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=gotham" alt="README Jokes"></a>
 ---
 
 [![Profile View](https://visitor-badge.laobi.icu/badge?page_id=Souvik-Babai-Roy.Souvik-Babai-Roy)](https://github.com/Souvik-Babai-Roy)
