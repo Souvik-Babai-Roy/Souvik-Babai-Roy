@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F72E&center=true&vCenter=true&width=635&lines=Hi+👋,+I'm+Souvik+Roy;Aspiring+Full+Stack+Developer;Passionate+about+Web+&+Software+Development;Tech+Enthusiast+&+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F72E&center=true&vCenter=true&width=635&lines=Hi+👋,+I'm+Souvik+Roy;Aspiring+Full+Stack+Developer;Passionate+about+Web+and+Software+Development;Tech+Enthusiast+and+Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
