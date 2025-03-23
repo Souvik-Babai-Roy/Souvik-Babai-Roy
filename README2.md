@@ -7,11 +7,17 @@
 
 ### 🚀 About Me
 - 🎓 MCA Graduate with a passion for **Web Development & Cloud Computing**
-- 🌱 Currently learning **MERN Stack, Cloud Technologies, and DevOps**
+- 🌱 Currently learning **MERN Stack, Cloud Technologies, and Big Data**
 - 👯 Looking to collaborate on **Open Source and Web Development Projects**
-- 💬 Ask me about **Java, JavaScript, and Web Development**
-- 📫 Reach me at: [souvikroy733@gmail.com](mailto:souvikroy733@gmail.com)
+- 💬 Ask me about **Java, SQL, and Web Development**
 - ⚡ Fun fact: **I enjoy solving coding challenges & exploring new technologies!**
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souvikroy1995)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/_Souvik_Roy_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://souvikroy.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikroy733@gmail.com)
 
 ---
 
@@ -60,12 +66,4 @@
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souvikroy1995)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/_Souvik_Roy_/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://souvikroy.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikroy733@gmail.com)
-
----
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Souvik-Babai-Roy.Souvik-Babai-Roy)](https://github.com/Souvik-Babai-Roy)
+[![Profile View](https://visitor-badge.laobi.icu/badge?page_id=Souvik-Babai-Roy.Souvik-Babai-Roy)](https://github.com/Souvik-Babai-Roy)
