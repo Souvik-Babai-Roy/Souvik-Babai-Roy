@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik-babai-roy&show_icons=true&locale=en&layout=compact" alt="Souvik-Babai-Roy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik-babai-roy&show_icons=true&locale=en" alt="Souvik-Babai-Roy" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-babai-roy&show_icons=true&locale=en" alt="Souvik-Babai-Roy" /></p>
