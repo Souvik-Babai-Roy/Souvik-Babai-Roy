@@ -38,25 +38,25 @@
 ---
 
 ### 🔥 Featured Projects
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrimeCart&theme=dark)](https://github.com/Souvik-Babai-Roy/PrimeCart)
+[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrimeCart&theme=gotham)](https://github.com/Souvik-Babai-Roy/PrimeCart)
 [![Phishing Detection](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Babai-Roy&repo=PrivyTalk&theme=gotham)](https://github.com/Souvik-Babai-Roy/PrivyTalk)
 
 ---
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souvik-Babai-Roy&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Babai-Roy&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souvik-Babai-Roy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Babai-Roy&layout=compact&langs_count=8&theme=gotham"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Babai-Roy&theme=vision-friendly-dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Babai-Roy&theme=gotham" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Souvik-Babai-Roy&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Souvik-Babai-Roy&theme=gotham&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
