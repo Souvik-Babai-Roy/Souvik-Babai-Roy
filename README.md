@@ -1,5 +1,6 @@
 <!-- Header Section -->
 <div align="center">
+  <!-- Typing SVG does not animate in GitHub README, will render as a static image -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F72E&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Souvik+Roy;Aspiring+Full+Stack+Developer;Passionate+about+Web+and+Software+Development;Tech+Enthusiast+and+Problem+Solver" alt="Typing SVG" />
 </div>
 
@@ -11,6 +12,7 @@
 - 👯 Looking to collaborate on **Open Source and Web Development Projects**
 - 💬 Ask me about **Java, SQL, and Web Development**
 - ⚡ Fun fact: **I enjoy solving coding challenges & exploring new technologies!**
+
 ---
 
 ### 📫 Connect with Me
@@ -65,11 +67,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Souvik-Babai-Roy&theme=gotham&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-### 😊 Random Dev Joke
 
+### 😊 Random Dev Joke
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=gotham" alt="README Jokes">
 
 ---
-
 
 [![Profile View](https://visitor-badge.laobi.icu/badge?page_id=Souvik-Babai-Roy.Souvik-Babai-Roy)](https://github.com/Souvik-Babai-Roy)
