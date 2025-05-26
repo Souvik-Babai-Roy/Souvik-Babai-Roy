@@ -1,8 +1,11 @@
 <!-- Header Section -->
+<!--
 <div align="center">
-  <!-- Typing SVG does not animate in GitHub README, will render as a static image -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F72E&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Souvik+Roy;Aspiring+Full+Stack+Developer;Passionate+about+Web+and+Software+Development;Tech+Enthusiast+and+Problem+Solver" alt="Typing SVG" />
 </div>
+-->
+
+![Hi, I'm Souvik Roy](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F72E&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Souvik+Roy;Aspiring+Full+Stack+Developer;Passionate+about+Web+and+Software+Development;Tech+Enthusiast+and+Problem+Solver)
 
 ---
 
